@@ -1,6 +1,6 @@
 # alien
 
-Jhon Moreno
+Fet per Jhon Moreno
 
 
 ```npm install```
