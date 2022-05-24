@@ -1,0 +1,12 @@
+{
+    "_description": "Aquest script conté una llista de respostes de diàleg per als personatges del joc. Les propietats de nivell superior fan referència al personatge que parla. Les propietats fill són el nom clau de l'objecte que es parla en resposta.",
+    "zeta": {
+        "saucer": "Encara no puc marxar. Tinc una missió per completar.",
+        "rock": "Tinc que continuar!",
+        "labsign": "Aquesta pot ser l'entrada al laboratori secret.",
+        "sportmodel": "Només és un globus meteorològic. No hi ha res a veure aquí.",
+        "jello": "Aquest vell Jalopy no em portaria a Alpha Centauri.",
+        "tr3b": "No ho havia vist mai. Hmm, diu TR-3B.",
+        "strawhat": "Aquest és un autèntic clàssic. encara que hi ha un gran forat al costat. Això realment farà malbé el valor de revenda."
+    }
+}
